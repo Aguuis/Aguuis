@@ -1,6 +1,6 @@
 <h3 align="center">Agatha Rodrigues - Frontend Developer</h3>
 
-- 🌱 Atualmente estou aprendendo **Java e MySQL**
+- 🌱 Atualmente estou aprendendo **PHP e Wordpress**
 
 - 👯 Procuro colaborar com **qualquer projeto que esteja ao meu alcance**
 
