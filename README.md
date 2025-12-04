@@ -1,7 +1,5 @@
 <h3 align="center">Agatha Rodrigues - Frontend Developer</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e análise de dados**
-
 - 📫 Contato: **agatar722@gmail.com**
 
 <h3 align="left">Se Conecte Comigo:</h3>
